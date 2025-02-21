@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Pilar😊
 
-<!--
-**pilarty/pilarty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy estudiando Ingeniería en Informática en UADE. Me gusta el desarrollo backend y el mundo de los datos. Disfruto trabajar en proyectos que me desafíen, donde pueda convertir ideas en soluciones útiles y aprender algo nuevo en el camino✨.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías y Herramientas  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Lenguajes:** Java, Python, SQL, JavaScript
+- **Librerías:** React, Redux, Spring Boot, Node.js
+- **Tecnologías:** Visual Studio Code, Eclipse, Cassandra, MongoDB, Redis, Neo4j, Git, JWT, Linux.
+
+## 📫 Links  
+
+📧 Email: mailto:pilarjimenagarcia@gmail.com 
+💼 LinkedIn: www.linkedin.com/in/pilar-jimena-garcia-86795426a
