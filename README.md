@@ -6,6 +6,5 @@ Estoy estudiando Ingeniería en Informática en UADE. Me gusta el desarrollo bac
 - **Librerías:** React, Redux, Spring Boot, Node.js  
 - **Tecnologías:** Visual Studio Code, Eclipse, Cassandra, MongoDB, Redis, Neo4j, Git, JWT, Linux  
 
-#### 📫 Links  
 📧 **Email:** pilarjimenagarcia@gmail.com  
 💼 [Mi perfil de LinkedIn](https://www.linkedin.com/in/pilar-jimena-garcia-86795426a)
